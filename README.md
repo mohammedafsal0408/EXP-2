@@ -76,8 +76,6 @@ Load Characteristics:
 
 <img width="822" height="655" alt="image" src="https://github.com/user-attachments/assets/740676e9-5fe4-4b2c-84f4-fe3968b01f3f" />
 
-<img width="822" height="655" alt="image" src="https://github.com/user-attachments/assets/9e824a2f-6f41-4ea3-a802-955f0267e0c4" />
-
 
  
 Result:
